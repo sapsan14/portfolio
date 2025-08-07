@@ -31,7 +31,7 @@ Built a personal K3s cluster with Rancher to explore GitOps, Helm, and service m
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/anton-sokolov-exe/)  
-- [GitHub](https://github.com/sapsan14/))  
+- [GitHub](https://github.com/sapsan14/)
 - Email: sokolovmeister@gmail.com
 
 ---
